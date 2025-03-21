@@ -15,4 +15,4 @@ export default defineConfig({
 //export default defineConfig({
   //plugins: [react(), tailwindcss()],
   //base: process.env.VITE_BASE_PATH || '/Movies_website',
-})
+//})
